@@ -9,6 +9,7 @@
 using namespace std;
 
 int main(){
+    unsigned valor;
     int ent1 = 1, ent2 = 2, ent3 = ent1+ent2;
     assert(ent3 == 3);
     double dou1 = 185.6, dou2 = 1.53;
