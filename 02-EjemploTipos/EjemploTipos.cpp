@@ -20,5 +20,6 @@ int main(){
     string palabra = "centena";
     assert(car = 'c');
     string texto = palabra + " decena";
+    getchar();
     return 0;
 }
